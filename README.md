@@ -16,8 +16,8 @@ This project demonstrates my ability to create structured test documentation and
 * **Tools:** Chrome DevTools, GitHub Issues (Bug Tracking), Markdown.
 
 ### 🧪 Documentation
-* **Test Cases:** [View detailed Test Cases here](./test_cases.md) 👈 *(Make sure you created this file!)*
-* **Bug Reports:** [View tracked bugs in GitHub Issues](../../issues) 👈 *(This links to your Issues tab)*
+* **Test Cases:** [View detailed Test Cases here](./test_cases.md) 👈 
+* **Bug Reports:** [View tracked bugs in GitHub Issues](../../issues) 👈
 
 ### 🔍 Key Findings (Summary)
 | Severity | Bug Description | Impact |
@@ -37,5 +37,5 @@ This project demonstrates my ability to create structured test documentation and
 ---
 
 ## 📫 Connect with Me
-* **Location:** Bangkok, Thailand (BTS Udom Suk area)
+* **Location:** Bangkok, Thailand
 * **Goal:** Seeking a QA Engineer role to help teams build bug-free software.
