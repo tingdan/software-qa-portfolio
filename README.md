@@ -16,7 +16,7 @@ This project demonstrates my ability to create structured test documentation and
 * **Tools:** Chrome DevTools, GitHub Issues (Bug Tracking), Markdown.
 
 ### 🧪 Documentation
-* **Test Cases:** [View detailed Test Cases here](./TEST_CASES.md) 👈 *(Make sure you created this file!)*
+* **Test Cases:** [View detailed Test Cases here](./test_cases.md) 👈 *(Make sure you created this file!)*
 * **Bug Reports:** [View tracked bugs in GitHub Issues](../../issues) 👈 *(This links to your Issues tab)*
 
 ### 🔍 Key Findings (Summary)
